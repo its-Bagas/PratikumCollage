@@ -1,4 +1,4 @@
-# PratikumCollage
+# Pratikum College
 This repository is created to support university lab activities. It contains:
 
 📂 Source Code from lab exercises and assignments
